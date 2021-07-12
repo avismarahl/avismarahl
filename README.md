@@ -16,5 +16,5 @@ I am
 </div>
 
 
-### HMU for a game of chess anytime 👍
+### Invite me a game of chess anytime 👍
 <a href="https://www.chess.com/member/misspellednight"><img src="https://i.ibb.co/7RpY1Dc/chess-com-2.png" width = "200" alt="chess-com" border="0"></a>
