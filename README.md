@@ -14,7 +14,3 @@ I am
 <a href="https://stackoverflow.com/story/avismara"> <img src="https://i.ibb.co/DGGYSpS/stack-overflow.png" width = "200" alt="stack-overflow" border="0"></a>
 <a href="https://leetcode.com/distressedrook"><img src="https://i.ibb.co/8Nx0r0S/leetcode.jpg" width = "200" margin = "20" alt="leetcode" border="0"></a>
 </div>
-
-
-### Invite me a game of chess anytime 👍
-<a href="https://www.chess.com/member/misspellednight"><img src="https://i.ibb.co/7RpY1Dc/chess-com-2.png" width = "200" alt="chess-com" border="0"></a>
