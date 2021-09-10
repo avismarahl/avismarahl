@@ -3,9 +3,8 @@
 I am 
 - Avismara, a developer turned entrepreneur from Bengaluru. 
 - the founder of [campus.build](https://campus.build)
-- an expert iOS Developer and experience designer
+- a freelance iOS Developer and experience designer
 - a competetive chess player
-- currently developing our platform backend in node.js and its mobile counterpart
 - relearning data-structures and algorithms 
 
 
